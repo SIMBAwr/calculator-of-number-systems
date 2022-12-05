@@ -1,0 +1,31 @@
+QLineEdit
+{
+    border-radius: 10px;
+    padding: 3px;
+}
+
+
+QLabel
+{
+  border-radius: 10px;
+}
+
+
+#pushButton
+{
+  border-style: outset;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: beige;
+
+  padding: 3px;
+}
+
+
+#pushButton:pressed
+{
+    background-color: rgb(128, 128, 128);
+    border-style: inset;
+}
+
+
